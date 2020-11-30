@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TV App</string>
+    <string name="channels_title">Каналы</string>
+    <string name="favourite_title">Избранное</string>
+    <string name="add_to_fav_title">Добавить в избранное</string>
+    <string name="rmv_frm_fav">Удалить из избранного</string>
+    <string name="connection_error">Не удалось загрузить список каналов</string>
+    <string name="description">описание</string>
+    <string name="live_string">•   ПРЯМОЙ ЭФИР</string>
+</resources>
